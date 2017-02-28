@@ -1,4 +1,4 @@
-[![TaTaBY]](https://github.com/TaTaBY)
+[TaTaBY](https://github.com/TaTaBY)
 #TaTaBY
 ## Javascript Assignments  [![Build Status](https://travis-ci.org/TaTaBY/js-assignments.svg?branch=master)](https://travis-ci.org/TaTaBY/js-assignments)
 
